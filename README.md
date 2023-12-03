@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on ReactJS, React Testing library and Jest.<br>🤝 I’m looking for help with Puppeteer.<br>🌱 I’m constantly unlearning and learning JavaScript and web development.<br>⚡ Fun fact about me is that I am multilingual.
+🔭 I’m currently working on ReactJS, React Native, React Testing library and Jest.<br>🤝 I’m looking for help with Puppeteer.<br>🌱 I’m constantly unlearning and learning JavaScript and web development.<br>⚡ Fun fact about me is that I am multilingual.
 
 
 ## 🌐 Socials:
